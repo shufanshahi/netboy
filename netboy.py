@@ -1,5 +1,7 @@
-#you might need to Install the module selenius . just go to the terminal and write : pip install selenium
+#you may need to Install the module selenium . just go to the terminal and write : pip install selenium
 #download the cromedriver
+#download the python compiler
+#then just connect this script with the task scheduler
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
